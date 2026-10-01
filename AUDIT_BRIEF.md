@@ -5,12 +5,12 @@
 **SCOPE, READ THIS FIRST. The checkout is NOT under `~/Claude Code`.**
 The repository under audit is at this absolute path, and nowhere else:
 
-    /private/tmp/claude-501/-Users-auny-Claude-Code/f7bf2d62-0490-4815-9a5c-f943b738de47/scratchpad/auny-ai/claude-os
+    /private/tmp/claude-501/-Users-auny-Claude-Code/f7bf2d62-0490-4815-9a5c-f943b738de47/scratchpad/aunysillyme-dev/claude-os
 
 The commit under audit is `9a99386f5d05f147e75f47cd6d0e8ed91d073a53`, one commit ahead of `origin/main`. Diff it
 against its parent with:
 
-    git -C /private/tmp/claude-501/-Users-auny-Claude-Code/f7bf2d62-0490-4815-9a5c-f943b738de47/scratchpad/auny-ai/claude-os diff origin/main..HEAD
+    git -C /private/tmp/claude-501/-Users-auny-Claude-Code/f7bf2d62-0490-4815-9a5c-f943b738de47/scratchpad/aunysillyme-dev/claude-os diff origin/main..HEAD
 
 A previous run of this audit returned BLOCKED because it looked for
 `/Users/auny/Claude Code/claude-os`, which does not exist. That run verified
@@ -35,7 +35,7 @@ frontmatter block (body prose, code blocks, the example install script in
 explicitly if nothing was found.
 
 ## Runtime
-Static markdown documentation in a public GitHub repo (auny-ai/claude-os). No
+Static markdown documentation in a public GitHub repo (aunysillyme-dev/claude-os). No
 application code, no server, no runtime. The change prepends a YAML
 frontmatter block to 12 markdown files (articles, integration guide,
 multi-AI-stack docs, session-protocol doc, and templates). Nothing executes
@@ -176,7 +176,7 @@ index f039f70..5737c22 100644
 @@ -1,3 +1,16 @@
 +---
 +title: Multi-AI Stack Overview
-+description: Maps each AI tool in the auny-ai stack to a single role (chief of staff, research, second opinion, visual production, music, content operations, build, system, distribution) and shows how the tools hand off to each other across four end-to-end workflows.
++description: Maps each AI tool in the aunysillyme-dev stack to a single role (chief of staff, research, second opinion, visual production, music, content operations, build, system, distribution) and shows how the tools hand off to each other across four end-to-end workflows.
 +category: architecture
 +status: active
 +tags:

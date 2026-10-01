@@ -262,6 +262,6 @@ The system compounds - every session builds on the last - across all LLMs and AI
 
 ---
 
-*Part of [claude-os](https://github.com/auny-ai/claude-os) —
+*Part of [claude-os](https://github.com/aunysillyme-dev/claude-os) —
 a multi-AI operating system being built in public.
 Learning as I go. Sharing it all for you*

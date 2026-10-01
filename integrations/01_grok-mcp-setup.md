@@ -259,10 +259,10 @@ Built into the session protocol.
 ---
 
 Read more about my protocols and workflows on my repo here: 
-[auny-ai claudeOS](https://github.com/auny-ai/claude-os)
+[aunysillyme-dev claudeOS](https://github.com/aunysillyme-dev/claude-os)
 
 Check out how to build a full vault structure:
-[vault architecture](https://github.com/auny-ai/claude-os/tree/main/vault-architecture)
+[vault architecture](https://github.com/aunysillyme-dev/claude-os/tree/main/vault-architecture)
 
 ---
 
@@ -328,5 +328,5 @@ to the stack after Obsidian.
 
 ---
 
-*auny-ai/claude-os — a multi-AI operating system being built in public.*
+*aunysillyme-dev/claude-os — a multi-AI operating system being built in public.*
 *Learning as I go. Sharing it all for you.* 🕷️

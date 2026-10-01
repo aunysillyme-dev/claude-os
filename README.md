@@ -253,7 +253,7 @@ You cannot:
 
 If you use this system or build upon it, attribution is appreciated but not required:
 
-*Built with claude-os by @AunySillyMe (https://github.com/auny-ai/claude-os)*
+*Built with claude-os by @AunySillyMe (https://github.com/aunysillyme-dev/claude-os)*
 
 ---
 

@@ -4,7 +4,7 @@ This repository is documentation only: markdown files describing session protoco
 
 If a doc here recommends a practice that turns out unsafe (a credential-handling pattern, an insecure MCP setup step), report it the same way as a security issue.
 
-Code-related reports (the grok-mcp-server Worker, its auth gate, its deploy) belong on [auny-ai/grok-mcp-server](https://github.com/auny-ai/grok-mcp-server), not here.
+Code-related reports (the grok-mcp-server Worker, its auth gate, its deploy) belong on [aunysillyme-dev/grok-mcp-server](https://github.com/aunysillyme-dev/grok-mcp-server), not here.
 
 ## Reporting a vulnerability
 

@@ -110,5 +110,5 @@ Follow the build:
 
 ---
 
-*auny-ai/claude-os — a multi-AI operating system being built in public.*
+*aunysillyme-dev/claude-os — a multi-AI operating system being built in public.*
 *Learning as I go. Sharing it all for you.* 🕷️

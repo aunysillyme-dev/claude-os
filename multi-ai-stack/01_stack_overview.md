@@ -1,6 +1,6 @@
 ---
 title: Multi-AI Stack Overview
-description: Maps each AI tool in the auny-ai stack to a single role (chief of staff, research, second opinion, visual production, music, content operations, build, system, distribution) and shows how the tools hand off to each other across four end-to-end workflows.
+description: Maps each AI tool in the aunysillyme-dev stack to a single role (chief of staff, research, second opinion, visual production, music, content operations, build, system, distribution) and shows how the tools hand off to each other across four end-to-end workflows.
 category: architecture
 status: active
 tags:
@@ -241,6 +241,6 @@ Every output has a documented workflow behind it.
 
 ---
 
-*Part of [claude-os](https://github.com/auny-ai/claude-os) —
+*Part of [claude-os](https://github.com/aunysillyme-dev/claude-os) —
 a multi-AI operating system built in public.*
 

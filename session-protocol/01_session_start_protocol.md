@@ -209,5 +209,5 @@ Claude as a tool and Claude as a system.
 
 ---
 
-*Part of [claude-os](https://github.com/auny-ai/claude-os) —
+*Part of [claude-os](https://github.com/aunysillyme-dev/claude-os) —
 a multi-AI operating system built in public.*

@@ -134,7 +134,7 @@ Vault/
 4. Your AI stack — what tools you use and why
 
 Full vault structure guide and reference:
-[vault-architecture/01_obsidian_structure.md](https://github.com/auny-ai/claude-os/blob/main/vault-architecture/01_obsidian_structure.md)
+[vault-architecture/01_obsidian_structure.md](https://github.com/aunysillyme-dev/claude-os/blob/main/vault-architecture/01_obsidian_structure.md)
 
 Once these folder system exists — move to Step 6.
 
@@ -177,7 +177,7 @@ Music work   → read music manual + lyric analysis
 Business     → read services doc + active client context
 ```
 Full session routing guide:
-[session-protocol/01_session_start_protocol.md](https://github.com/auny-ai/claude-os/blob/main/session-protocol/01_session_start_protocol.md)
+[session-protocol/01_session_start_protocol.md](https://github.com/aunysillyme-dev/claude-os/blob/main/session-protocol/01_session_start_protocol.md)
 
 Once your instructions are set — your system is live.
 Every session starts with full context from this point forward.
@@ -291,5 +291,5 @@ You never start from zero again.
 
 ---
 
-*auny-ai/claude-os — a multi-AI operating system being built in public.*
+*aunysillyme-dev/claude-os — a multi-AI operating system being built in public.*
 *Learning as I go. Sharing it all for you.* 🕷️

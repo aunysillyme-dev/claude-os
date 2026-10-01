@@ -3,7 +3,7 @@
 project:
   name: claude-os
   tagline: A multi-AI operating system. Session protocols, vault architecture, and workflow frameworks built in public.
-  owner: auny-ai
+  owner: aunysillyme-dev
   created: 2026-05-06
 
 # Version History & Changelog

@@ -2,39 +2,39 @@
 
 > A documented, production-tested framework for running Claude and a coordinated multi-AI stack as an operating system: session protocols that load context before every task, an Obsidian vault as the memory layer, and workflow frameworks for content, music, and code.
 
-Docs only, no runtime. For the companion Cloudflare Worker (grok-mcp-server) see [auny-ai/grok-mcp-server](https://github.com/auny-ai/grok-mcp-server).
+Docs only, no runtime. For the companion Cloudflare Worker (grok-mcp-server) see [aunysillyme-dev/grok-mcp-server](https://github.com/aunysillyme-dev/grok-mcp-server).
 
 ## Core
 
-- [README](https://github.com/auny-ai/claude-os/blob/main/README.md): what this is, quick start
-- [START-HERE](https://github.com/auny-ai/claude-os/blob/main/START-HERE.md): navigation guide
-- [VISUAL-GUIDE](https://github.com/auny-ai/claude-os/blob/main/VISUAL-GUIDE.md): the system, diagrammed
+- [README](https://github.com/aunysillyme-dev/claude-os/blob/main/README.md): what this is, quick start
+- [START-HERE](https://github.com/aunysillyme-dev/claude-os/blob/main/START-HERE.md): navigation guide
+- [VISUAL-GUIDE](https://github.com/aunysillyme-dev/claude-os/blob/main/VISUAL-GUIDE.md): the system, diagrammed
 
 ## Session protocol
 
-- [01_session_start_protocol](https://github.com/auny-ai/claude-os/blob/main/session-protocol/01_session_start_protocol.md): the six-step routing loop
+- [01_session_start_protocol](https://github.com/aunysillyme-dev/claude-os/blob/main/session-protocol/01_session_start_protocol.md): the six-step routing loop
 
 ## Vault architecture
 
-- [01_obsidian_structure](https://github.com/auny-ai/claude-os/blob/main/vault-architecture/01_obsidian_structure.md)
-- [02_mcp_connection_guide](https://github.com/auny-ai/claude-os/blob/main/vault-architecture/02_mcp_connection_guide.md)
+- [01_obsidian_structure](https://github.com/aunysillyme-dev/claude-os/blob/main/vault-architecture/01_obsidian_structure.md)
+- [02_mcp_connection_guide](https://github.com/aunysillyme-dev/claude-os/blob/main/vault-architecture/02_mcp_connection_guide.md)
 
 ## Multi-AI stack
 
-- [01_stack_overview](https://github.com/auny-ai/claude-os/blob/main/multi-ai-stack/01_stack_overview.md)
-- [02_tool_to_task_mapping](https://github.com/auny-ai/claude-os/blob/main/multi-ai-stack/02_tool_to_task_mapping.md)
+- [01_stack_overview](https://github.com/aunysillyme-dev/claude-os/blob/main/multi-ai-stack/01_stack_overview.md)
+- [02_tool_to_task_mapping](https://github.com/aunysillyme-dev/claude-os/blob/main/multi-ai-stack/02_tool_to_task_mapping.md)
 
 ## Integrations
 
-- [01_grok-mcp-setup](https://github.com/auny-ai/claude-os/blob/main/integrations/01_grok-mcp-setup.md)
+- [01_grok-mcp-setup](https://github.com/aunysillyme-dev/claude-os/blob/main/integrations/01_grok-mcp-setup.md)
 
 ## Templates
 
-- [templates/CLAUDE.md](https://github.com/auny-ai/claude-os/blob/main/templates/CLAUDE.md)
-- [templates/vault-skeleton](https://github.com/auny-ai/claude-os/blob/main/templates/vault-skeleton/HQ.md)
+- [templates/CLAUDE.md](https://github.com/aunysillyme-dev/claude-os/blob/main/templates/CLAUDE.md)
+- [templates/vault-skeleton](https://github.com/aunysillyme-dev/claude-os/blob/main/templates/vault-skeleton/HQ.md)
 
 ## Optional
 
-- [CONTRIBUTING](https://github.com/auny-ai/claude-os/blob/main/CONTRIBUTING.md)
-- [Changelog](https://github.com/auny-ai/claude-os/blob/main/CHANGELOG.md)
-- [Security policy](https://github.com/auny-ai/claude-os/blob/main/SECURITY.md)
+- [CONTRIBUTING](https://github.com/aunysillyme-dev/claude-os/blob/main/CONTRIBUTING.md)
+- [Changelog](https://github.com/aunysillyme-dev/claude-os/blob/main/CHANGELOG.md)
+- [Security policy](https://github.com/aunysillyme-dev/claude-os/blob/main/SECURITY.md)

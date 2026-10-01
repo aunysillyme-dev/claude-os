@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security report (private)
-    url: https://github.com/auny-ai/claude-os/security/advisories/new
+    url: https://github.com/aunysillyme-dev/claude-os/security/advisories/new
     about: A documented practice that is unsafe. A private security advisory, not a public issue.
   - name: Code-related reports
-    url: https://github.com/auny-ai/grok-mcp-server
+    url: https://github.com/aunysillyme-dev/grok-mcp-server
     about: This repo is documentation only. Report code, auth, or deploy issues on grok-mcp-server instead.

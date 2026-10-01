@@ -23,7 +23,7 @@ Or they have ten tools and don't know which one to use when.
 
 Both approaches produce mediocre output.
 
-This is the mapping that runs the auny-ai stack.
+This is the mapping that runs the aunysillyme-dev stack.
 Every tool has a defined role.
 No tool does everything.
 Every tool does what it does best.
@@ -277,5 +277,5 @@ Claude reads and writes to them mid-session.
 
 ---
 
-*Part of [claude-os](https://github.com/auny-ai/claude-os) —
+*Part of [claude-os](https://github.com/aunysillyme-dev/claude-os) —
 a multi-AI operating system built in public.*
