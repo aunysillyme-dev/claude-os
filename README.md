@@ -18,6 +18,8 @@ contributors: []
 ---
 
 # claude-os 🕷️
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/claude-os/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/claude-os)
 ### A multi-AI operating system. Not a prompt. Not a file. A system.
 
 Built by [@AunySillyMe](https://x.com/AunySillyMe)
